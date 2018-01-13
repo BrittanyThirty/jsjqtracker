@@ -1,5 +1,5 @@
-# jsjqtracker
-Objectives include the following: Create an interactive webpage for prospective students of Epicodus; aims to guide aspiring programmers toward an appropriate cohort track. Offerings to include a minimum of: five (5) survey questions, three (3) field of study suggestions, and effectively meeting all objectives as outlined per instructor content. 
+# Tracking Prospective Epicodus Students 
+Objectives include the following: Create an interactive webpage for prospective students of Epicodus; aims to guide aspiring programmers toward an appropriate cohort track. Offerings to include a minimum of: five (5) survey questions, three (3) field of study suggestions, and effectively meeting all objectives as outlined per directives. 
 # 
 # _HTML, {HTML5}_
 #### _{HTML5}, Date of current as of 12 January 2017_
@@ -16,9 +16,12 @@ _There are no known bugs present_
 _Not applicable_
 ## Technologies Used
 _Basic website built using hypertext markup language HTML5, Twitter's Bootstrap v.3.3.7, the present version of jQuery ultilized is jQueryv3.2.1 the text editior Atom and utilizing GitHub, branching, the web-based Git repository hosting service, providing the distributed revision control and SCM of Git in alongside its independent features  (which is where you are viewing this). }_
-### License:
 
-Copyright (c)2018 Brittany Thirtyacre 2016 **_{MIT License}_**_Permission is hereby granted, free of charge, to any person obtaining_
+### License: MIT License
+
+Copyright (c)2018 Brittany Thirtyacre 
+
+2016 **_{MIT License}_**_Permission is hereby granted, free of charge, to any person obtaining_
 a copy of this software and associated documentation files (the "Software"), to deal in the Software without_ 
 restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense,_
 and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the_
