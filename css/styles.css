@@ -1,1 +1,4 @@
-/*Create a custom-made stylesheet that uses cascading, the box model, and floats
+/*Create a custom-made stylesheet that uses cascading, the box model, and floats*/
+h1, h2, h3 {
+  text-align: center;
+}
