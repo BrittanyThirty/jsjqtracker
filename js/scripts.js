@@ -1,8 +1,4 @@
-$document.ready(function())  {
-$(".form").submit(function(event) {
-  event.preventDefault();
-}
-});
+// var userInput = $("input." + blank).val();
 
 //FrontEND (UI)
 
@@ -10,5 +6,8 @@ $(".form").submit(function(event) {
 //Gathers input from the users prompt, alert,boot
 
 //Back(Business)
-// 
-// var userInput = $("input." + blank).val();
+$document.ready(function())  {
+$(".form").submit(function(event) {
+  event.preventDefault();
+}
+});
