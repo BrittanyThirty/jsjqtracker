@@ -1,8 +1,15 @@
 body {
   font-size: 14px;
-  background-image: url('img/highway2.jpg');
+  background-image: url("../img/freeway1.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
+}
+
+.jumbotron {
+  float: center center; 
+  border: 3px solid black;
+  padding: 12px;
+  margin: 25px;
 }
