@@ -7,9 +7,16 @@ body {
   background-size: cover;
 }
 
-.jumbotron {
-  float: center center; 
+.form {
+  background-color: #bccfc7;
+  text-align: justify;
+  float: center center;
   border: 3px solid black;
   padding: 12px;
-  margin: 25px;
+  margin: 35px;
+
+}
+
+button {
+  background-color: red;
 }
