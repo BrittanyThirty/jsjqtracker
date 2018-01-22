@@ -20,3 +20,6 @@ body {
 button {
   background-color: red;
 }
+.java, .csharp, .ruby, .php {
+  display: none;
+}

@@ -1,24 +1,22 @@
 $(document).ready(function()) {
   $(".form").submit(function(event) {
     event.preventDefault();
-  }
-    });
     var mostly1 = parseInt($("preference1").val());
-    var mostly2 = 10
-    var mostly3 = 15
-    var mostly4 = 20
-    
+    var mostly2 = parseInt($("preference2").val());
+    var mostly3 = parseInt($("preference3").val());
+    var mostly4 = parseInt($("preference4").val());
+    var mostly5 = parseInt($("preference5").val());
+    var result = mostly1 + mostly2 + mostly3 + mostly4 + mostly5
 
-   if (result <= 16) {
-     $('#value').show();
-   } else if (result === 20) {
-     $('#value').show();
+   if (result <= 20 && >= 16) {
+     $(".java").show();
    } else if (result === 15) {
-     $('#value').show();
-   } else if (result) === 10) {
-     $('#value').show();
-   } else if (result === 5) {
-     $('#value').show();
+     $(".csharp").show();
+   } else if (result <= 15 && >= 11) {
+     $(".ruby").show();
    } else {
-     $('#under-').show();
-   }
+     $(".php").show();
+
+     }
+    });
+  });
