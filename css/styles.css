@@ -1,3 +1,7 @@
+/* .java, .csharp, .ruby, .php {
+  display:
+} */
+
 body {
   font-size: 14px;
   background-image: url("../img/freeway1.jpg");
@@ -7,7 +11,7 @@ body {
   background-size: cover;
 }
 
-.form {
+.container {
   background-color: #bccfc7;
   text-align: justify;
   float: center center;
@@ -17,9 +21,18 @@ body {
 
 }
 
+.form-group {
+  text-align: justify;
+  float: center center;
+  border: 3px solid black;
+  padding: 12px;
+  margin: 35px;
+}
+
+.form-control {
+  text-align: center;
+}
+
 button {
   background-color: red;
-}
-.java, .csharp, .ruby, .php {
-  display: none;
 }
