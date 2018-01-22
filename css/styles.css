@@ -1,7 +1,11 @@
-/* .java, .csharp, .ruby, .php {
-  display:
-} */
+.java, .csharp, .ruby, .php {
+  display: none;
+}
 
+.jumbotron {
+  padding: 4px;
+  margin: 4px
+}
 body {
   font-size: 14px;
   background-image: url("../img/freeway1.jpg");
@@ -11,26 +15,39 @@ body {
   background-size: cover;
 }
 
-.container {
-  background-color: #bccfc7;
-  text-align: justify;
-  float: center center;
-  border: 3px solid black;
-  padding: 12px;
-  margin: 35px;
-
-}
 
 .form-group {
-  text-align: justify;
-  float: center center;
-  border: 3px solid black;
+  text-align: left;
+  float: left;
   padding: 12px;
   margin: 35px;
 }
 
 .form-control {
+  text-align: left;
+  width: 720px;
+  height: auto;
+  float: center;
+  padding: 12px;
+}
+
+.container {
+  background-color: #bccfc7;
+  text-align: left;
+  float: center;
+  border: 3px solid black;
+}
+
+.form {
   text-align: center;
+  float: center;
+  padding: 12px;
+  margin: 35px;
+}
+
+ul {
+  list-style: none;
+  text-align: left;
 }
 
 button {

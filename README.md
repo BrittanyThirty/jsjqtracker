@@ -6,7 +6,6 @@ Objectives include the following: Create an interactive webpage for prospective 
 #### By _**Brittany Thirtyacre**_
 ####_Program Description_(C#/.Net) Introduction to Programming with Epicodus Inc._
 ## Description_
-//	ADDITIONAL READ ME DETAILS REMINDER	○ author name
 
 		○ description of program
 
@@ -52,7 +51,7 @@ Author is not aware of existing bugs
 
 ## Link to Active Project (GitHub)
 
-
+https://github.com/BrittanyThirty/tracker.git
 
 ## Technologies Used
 
