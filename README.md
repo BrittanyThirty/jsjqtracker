@@ -4,10 +4,9 @@ Objectives include the following: Create an interactive webpage for prospective 
 # _HTML,CSS, JavaScript, et al_
 #### _{HTML5}, Date of current as of 19 January 2018_
 #### By _**Brittany Thirtyacre**_
-####_Program Description_(C#/.Net) Introduction to Programming with Epicodus Inc._
-## Description_
 
-		○ description of program
+## Description_
+####_Program Description_(C#/.Net) Introduction to Programming with Epicodus Inc._
 
 The interactive webpage for Epicodus which encourages prospective students in the exploration of an appropriate course of study utilizing survey questionnaire_
 to obtain subjective user preferences which outputs a tailored cohort track suggestion.  
